@@ -1,0 +1,8 @@
+C:\Users\checheb\Desktop\assignt_three\bin\Debug\netcoreapp1.1\assignment_three.deps.json
+C:\Users\checheb\Desktop\assignt_three\bin\Debug\netcoreapp1.1\assignment_three.runtimeconfig.json
+C:\Users\checheb\Desktop\assignt_three\bin\Debug\netcoreapp1.1\assignment_three.runtimeconfig.dev.json
+C:\Users\checheb\Desktop\assignt_three\obj\Debug\netcoreapp1.1\assignment_three.AssemblyInfo.cs
+C:\Users\checheb\Desktop\assignt_three\bin\Debug\netcoreapp1.1\assignment_three.dll
+C:\Users\checheb\Desktop\assignt_three\bin\Debug\netcoreapp1.1\assignment_three.pdb
+C:\Users\checheb\Desktop\assignt_three\obj\Debug\netcoreapp1.1\assignment_three.dll
+C:\Users\checheb\Desktop\assignt_three\obj\Debug\netcoreapp1.1\assignment_three.pdb
